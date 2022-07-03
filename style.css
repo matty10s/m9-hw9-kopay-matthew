@@ -136,7 +136,7 @@ footer {
 @media screen and (max-width:400px)and(orientation: landscape) {
   
   header > nav {
-    display: none;
+    display: block;
   }
 
  main > aside::before {
