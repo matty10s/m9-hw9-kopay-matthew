@@ -134,6 +134,7 @@ footer {
 
 
 @media screen and (max-width:750px) {
+  
   header > nav {
     display: none;
   }
@@ -196,6 +197,7 @@ main article {
 
 main > article img {
   float:none;
+  max-width: 100%;
   display:block;
   margin:0 auto;
 
