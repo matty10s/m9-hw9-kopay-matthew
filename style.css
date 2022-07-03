@@ -139,7 +139,7 @@ footer {
     display: none;
   }
 
- main > aside::before {
+ main > aside::after {
   content: "";
   float: none;
   display: block;
